@@ -1,0 +1,12 @@
+create a new project
+
+just a simple test
+
+
+
+
+yuthi init
+yuthi get <url> 
+yuthi post <url>
+yuthi history
+yuthi help
