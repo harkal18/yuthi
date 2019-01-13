@@ -1,6 +1,6 @@
 {
   "name": "yuthi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Send http request using node cli",
   "main": "./lib/index.js",
   "scripts": {
@@ -29,12 +29,12 @@
     "tslint": "^5.12.1",
     "typescript": "^3.2.2"
   },
-  "files": [ 
-	 "common", 
-	 "lib" , 
-	 "raw" , 
-	 "src" 
-	],
+  "files": [
+    "common",
+    "lib",
+    "raw",
+    "src"
+  ],
   "bin": {
     "yuthi": "./lib/index.js"
   },

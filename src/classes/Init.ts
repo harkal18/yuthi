@@ -15,7 +15,7 @@ export class Init {
         );
 
         console.log(
-            chalk.underline.hex(ConstantsModule.Constants.FAMENUN_GREEN_LIGHT_SHADE_1)('v1.0.0')
+            chalk.underline.hex(ConstantsModule.Constants.FAMENUN_GREEN_LIGHT_SHADE_1)('v1.0.4')
         );
 
         console.log(

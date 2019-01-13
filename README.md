@@ -18,4 +18,4 @@ well,
 
 there is lot more that can be done to this but for now this much is sufficient for me so i m leaving it here.
 
-if you are intrested in developing furture get the code from github 
+if you are intrested in developing furture get the code from github = > https://github.com/harkal18/yuthi
